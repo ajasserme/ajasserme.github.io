@@ -1,0 +1,8 @@
+---
+title: "Case Study 1"
+author: "Alexandre Jasserme"
+date: "3/23/2021"
+output: html_document
+---
+
+Test of a tab
