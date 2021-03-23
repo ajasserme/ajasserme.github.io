@@ -5,3 +5,6 @@ date: "3/23/2021"
 output: html_document
 ---
 
+My name is Alexandre and I'm studying Data Science at SMU.
+
+The other tabs represent work / analyses that I have completed.  Please check them out!
